@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Hangzhou Dianzi University(HDU)<br>
 📫 How to reach me: q763562998@163.com<br>
-💬 Ask me about: We can talk about Java or performance testing, I'm currently looking for work on Java<br><br>
+💬 Ask me about: We can talk about Java or performance testing<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q763562998&hide=c++)](https://github.com/q763562998)
