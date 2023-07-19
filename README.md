@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 📫 How to reach me: q763562998@163.com<br>
 💬 Ask me about: We can talk about Java or performance testing<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q763562998&hide=c++)](https://github.com/q763562998)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q763562998)](https://github.com/q763562998)
