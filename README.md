@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+🌏About me:
 <!--
 **q763562998/q763562998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +19,8 @@ Here are some ideas to get you started:
 📫 How to reach me: q763562998@163.com<br>
 💬 Ask me about: We can talk about Java or performance testing<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q763562998)](https://github.com/q763562998)
+
+
+## ✨ Most Used Languages
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q763562998&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
